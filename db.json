@@ -1,0 +1,22 @@
+// {"employees": [
+//     {
+//       "firstName": "Hazar",
+//       "lastName": "Yahyaoui ",
+//       "email": "hazar@hmail.com",
+//       "password": "az",
+//       "age": 28,
+//       "salary": "1500",
+//       "id": 1
+//     },
+//     {
+//       "firstName": "Hazar",
+//       "lastName": "Yahyaoui ",
+//       "email": "hgf@gmail.com",
+//       "password": "aze",
+//       "age": 29,
+//       "salary": "2500",
+//       "id": 2
+//     }
+    
+//   ]
+// }

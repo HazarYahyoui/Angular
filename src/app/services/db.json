@@ -10,13 +10,22 @@
       "id": 1
     },
     {
-      "firstName": "Hazar",
-      "lastName": "Yahyaoui ",
-      "email": "hgf@gmail.com",
-      "password": "aze",
-      "age": 29,
-      "salary": "2500",
+      "firstName": "afnen",
+      "lastName": "rezgui",
+      "email": "afnen@gmail.com",
+      "password": "azer",
+      "age": 30,
+      "salary": "2600",
       "id": 2
+    },
+    {
+      "firstName": "hela",
+      "lastName": "yahyaoui",
+      "email": "hgf@gmail.com",
+      "password": "aqw",
+      "age": 32,
+      "salary": "3000",
+      "id": 3
     }
   ]
 }
